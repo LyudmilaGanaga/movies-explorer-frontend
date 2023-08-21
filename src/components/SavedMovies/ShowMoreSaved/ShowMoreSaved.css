@@ -1,0 +1,20 @@
+.showMoreSaved {
+  display: flex;
+  justify-content: center;
+  background: #202020;
+  min-height: 140px;
+  width: 89.063%;
+  margin: 89px auto 0;
+}
+
+@media screen and (max-width:898px) {
+  .showMoreSaved {
+    margin: 0;
+  }
+}
+
+@media screen and (max-width:525px) {
+  .showMoreSaved {
+    margin: 10px auto 0;
+  }
+}
