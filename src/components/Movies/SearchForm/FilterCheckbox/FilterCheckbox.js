@@ -8,6 +8,7 @@ function FilterCheckbox() {
           id="idCheckbox"
           type="checkbox"
           className="filterCheckbox__input"
+          
         ></input>
         <span className="filterCheckbox__span"></span>
       </label>

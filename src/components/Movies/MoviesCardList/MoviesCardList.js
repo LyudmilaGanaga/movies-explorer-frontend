@@ -3,11 +3,9 @@ import "../../Movies/MoviesCardList/MoviesCardList.css";
 
 function MoviesCardList() {
   return (
-    <>
-      <section className="moviesList">
-        <MoviesCard />
-      </section>
-    </>
+    <ul className="moviesList">
+      <MoviesCard />
+    </ul>
   );
 }
 

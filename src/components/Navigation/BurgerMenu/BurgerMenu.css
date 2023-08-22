@@ -55,6 +55,7 @@
     display: flex;
     justify-content: flex-end;
     z-index: 1;
+    position: fixed;
   }
 
   .burgerMenu__state-active {

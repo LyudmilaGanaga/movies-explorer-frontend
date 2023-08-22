@@ -15,13 +15,13 @@ function Portfolio() {
             Статичный сайт
           </Link>
         </li>
-        <span className="portfolio__line"></span>
+        {/* <span className="portfolio__line"></span> */}
         <li className="portfolio__name">
           <Link to="#" target="_blank" className="portfolio__link">
             Адаптивный сайт
           </Link>
         </li>
-        <span className="portfolio__line"></span>
+        {/* <span className="portfolio__line"></span> */}
         <li className="portfolio__name">
           <Link
             to="https://lyudmilaganaga.github.io/mesto-react/"

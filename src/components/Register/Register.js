@@ -18,9 +18,9 @@ export function Register() {
         <input
           placeholder="Виталий"
           className="auth__input"
-          id="email"
-          name="email"
-          type="email"
+          id="name"
+          name="name"
+          type="name"
           required
         />
         <label htmlFor="name" className="auth__name">
